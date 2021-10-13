@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<script lang="ts">
+<script >
 import { main } from '../../utils/global'
 import NavTitle from './components/navTitle.vue'
 import IndexAd from './components/ad.vue'
